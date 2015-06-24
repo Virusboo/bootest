@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>111368DE-2279-4932-9C67-7934C1DD05BB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Locker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C485B0903CC5DCCA2CECD62C00A42F2B92815E9C</key>
+		<string>https://github.com/Virusboo/bootest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Locker/Locker.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C485B0903CC5DCCA2CECD62C00A42F2B92815E9C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Virusboo/bootest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C485B0903CC5DCCA2CECD62C00A42F2B92815E9C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C485B0903CC5DCCA2CECD62C00A42F2B92815E9C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bootest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
